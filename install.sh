@@ -10,3 +10,6 @@ ln -s .vimrc ~/.vimrc
 # Scm breeze
 ln -s ~/dotfiles/.scm_breeze ~/.scm_breeze
 ~/.scm_breeze/install.sh
+
+# Fonts
+fonts/install.sh
