@@ -1,6 +1,6 @@
 [submodule "scm_breeze"]
 	path = scm_breeze
-	url = git@github.com:scmbreeze/scm_breeze.git
+	url = https://github.com/scmbreeze/scm_breeze.git
 [submodule "fonts"]
 	path = fonts
-	url = git@github.com:powerline/fonts.git
+	url = https://github.com/powerline/fonts.git

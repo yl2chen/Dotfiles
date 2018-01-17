@@ -36,4 +36,4 @@ PS1="$LRED\t $LYELLOW\h$NO_COLOUR/$GREEN\u $WHITE@\W$NO_COLOUR $YELLOW\$(parse_g
 # increate bash history size
 HISTFILESIZE=10000000
 
-[ -s "/Users/yulin/.scm_breeze/scm_breeze.sh" ] && source "/Users/yulin/.scm_breeze/scm_breeze.sh"
+[ -s "~/.scm_breeze/scm_breeze.sh" ] && source "~/.scm_breeze/scm_breeze.sh"
