@@ -26,8 +26,12 @@ mkdir $BACKUP_FOLDER
 header "bash profile"
 link_file ".bash_profile"
 
+# tmux
+header "tmux config"
+link_file ".tmux.conf"
+
 # Link vimrc
-header "vim"]
+header "vim"
 link_file ".vimrc"
 
 # Scm breeze
