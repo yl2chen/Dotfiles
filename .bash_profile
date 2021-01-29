@@ -37,3 +37,7 @@ PS1="$LRED\t $LYELLOW\h$NO_COLOUR/$GREEN\u $WHITE@\W$NO_COLOUR $YELLOW\$(parse_g
 HISTFILESIZE=10000000
 
 [ -s "~/.scm_breeze/scm_breeze.sh" ] && source "~/.scm_breeze/scm_breeze.sh"
+
+[ -s "/Users/yulin/.scm_breeze/scm_breeze.sh" ] && source "/Users/yulin/.scm_breeze/scm_breeze.sh"
+
+export PATH=$PATH:~/go/bin
